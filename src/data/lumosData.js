@@ -1,7 +1,7 @@
 export const navLinks = [
   { label: "Beranda", href: "#beranda" },
   { label: "Program", href: "#program" },
-  { label: "Tentang Kami", href: "#tkami" },
+  { label: "Mentor Kami", href: "#tkami" },
   { label: "Kontak", href: "#kontak" },
 ];
 
